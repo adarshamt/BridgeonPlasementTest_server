@@ -1,5 +1,5 @@
 const products = require("../model/productSchema");
-
+    
 
 const showProducts =async(req,res)=>{
 
